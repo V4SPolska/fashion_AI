@@ -4,3 +4,7 @@ Fashion_AI to repozytorium udostępniające kod użyty w celu opracowania innowa
 ## użytkowanie
 Kod źródłowy został zapisany w postaci jupyter notebook (.ipynb) co pozwala na ilustrację pośrednich wyników uzyskanych podczas badań w celu ułatwienia weryfikacji otrzymanych wyników użytkownika.
 Każdy z plików wymaga Python=>3.6, Tensorflow=>2.3 oraz Scikit-Learn. Niektóre z plików mogą wymagać dodatkowych bibliotek, które są opisane w pierwszej komórce takiego zeszytu. 
+
+## kontakt
+Małgorzata Wojtas
+malgorzata.wojtas@v4s.pl
