@@ -8,3 +8,6 @@ Każdy z plików wymaga Python=>3.6, Tensorflow=>2.3 oraz Scikit-Learn. Niektór
 ## kontakt
 Małgorzata Wojtas
 malgorzata.wojtas@v4s.pl
+
+##licencja
+Oprogramowanie z licensją open-source.
