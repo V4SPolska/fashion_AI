@@ -3,7 +3,7 @@ Fashion_AI to repozytorium udostępniające kod użyty w celu opracowania innowa
 
 ## użytkowanie
 Kod źródłowy został zapisany w postaci jupyter notebook (.ipynb) co pozwala na ilustrację pośrednich wyników uzyskanych podczas badań w celu ułatwienia weryfikacji otrzymanych wyników użytkownika.
-Każdy z plików wymaga Python=>3.6, Tensorflow=>2.3 oraz Scikit-Learn. Niektóre z plików mogą wymagać dodatkowych bibliotek, które są opisane w pierwszej komórce takiego zeszytu. 
+Każdy z plików wymaga Python=>3.6, Tensorflow=>2.3, OpenCV oraz Scikit-Learn. Niektóre z plików mogą wymagać dodatkowych bibliotek, które są opisane w pierwszej komórce takiego zeszytu. W celu najłatwiejszego odtworzenia wyników, zalecane jest użycie gotowego środowiska [Google Collab](https://colab.research.google.com/). Niektróre z załączonych zeszytów wymagają danych wejściowych (najczęściej zbiorów danych przedstawiających zestawy ubrań wraz z ich kategoryzacją) do poprawnego działania.
 
 ## kontakt
 Małgorzata Wojtas
